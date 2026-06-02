@@ -1,6 +1,6 @@
 public class Decode {
     public static void main(String[] args) {
-        String s = "3[a]2[bc]";
+        String s = "5[a]2[bcd]";
         String ch = "";
         String res = "";
         int n = 0;
